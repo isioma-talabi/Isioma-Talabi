@@ -1,4 +1,4 @@
-## Oi World! I'm Isioma. Front-End Engineer & UI/UX Designer.👋🏽
+## Hallo Hallo! I'm Isioma. Front-End Engineer. Future UX Engineer.👋🏽
 
 <!--
 **isioma-talabi/Isioma-Talabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
